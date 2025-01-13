@@ -5,6 +5,7 @@ function Featured() {
         <h1 className='text-7xl tracking-tight mb-10'>Featured Projects</h1>
         
         <div className="cards w-full flex gap-10">
+          
           {/* Card 1 */}
           <div className="cardcontainer w-1/2 h-[80vh] rounded-lg overflow-hidden bg-red-700">
             <img 
