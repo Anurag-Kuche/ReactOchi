@@ -13,7 +13,7 @@ function Cards() {
           />
         </div>
 
-        {/* Card 2 (medium size) */}
+        
         <div className="w-full h-[300px] bg-gray-200 rounded-lg overflow-hidden transition-transform duration-300 hover:scale-105">
           <img 
             className="w-full h-full object-cover" 
