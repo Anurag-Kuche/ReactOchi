@@ -22,7 +22,7 @@ function Cards() {
           />
         </div>
 
-        {/* Card 3 (smaller) */}
+      
         <div className="w-full h-[250px] bg-gray-200 rounded-lg overflow-hidden transition-transform duration-300 hover:scale-105">
           <img 
             className="w-full h-full object-cover" 
