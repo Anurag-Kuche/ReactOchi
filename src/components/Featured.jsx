@@ -15,7 +15,7 @@ function Featured() {
             />
           </div>
 
-          {/* Card 2 */}
+    
           <div className="cardcontainer w-1/2 h-[80vh] rounded-lg overflow-hidden bg-blue-700">
             <img 
               className='w-full h-full object-cover' 
