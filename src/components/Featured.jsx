@@ -6,7 +6,7 @@ function Featured() {
         
         <div className="cards w-full flex gap-10">
           
-          {/* Card 1 */}
+   
           <div className="cardcontainer w-1/2 h-[80vh] rounded-lg overflow-hidden bg-red-700">
             <img 
               className='w-full h-full object-cover' 
